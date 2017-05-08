@@ -1,0 +1,62 @@
+++++++++++++++++++++++
+version 1.0      +++++
+++++++++++++++++++++++
+
+most of the numeric variables are configurable with XML.
+
+++++++++++++++++++++++
+version 1.1      +++++
+++++++++++++++++++++++
+
+Add stickers:
+
+Load sticker list XML;
+Load sticker swf listed in XML;
+Edit sticker: add, remove, rotate, scale;
+Print sticker into output pngs.
+
+
+++++++++++++++++++++++
+version 1.2      +++++
+++++++++++++++++++++++
+
+Add idle watcher and image slider with tran effect:
+
+IdleUserWatcher accepts idle period not less than 5 seconds;
+PhotoSlider accepts photo interval not less than 30 seconds;
+
+EffectManager is horizontal version, and is modified. Crrent effect in action is OctCircles.
+
+Add error handling, and logging.
+
+StickerShelf can be dragged with pagination.
+
+Fix problem: when sticker is removed with Wedding, it could never be edited.
+
+
+
+++++++++++++++++++++++
+version 1.3      +++++
+++++++++++++++++++++++
+
+Add Preloader animation.
+
+Load menu icon dynamically, add shadow.
+
+
+++++++++++++++++++++++
+version 1.3-testing  +
+++++++++++++++++++++++
+
+Add Alcon to monitor the stage.
+
+And add Keyboard event listener to add go-full-screen functionality
+
+Pop greetings after submitting.
+
+Add eraser icon in erasing mode.
+
+Except eraser and two handles, all the design are loaded externally.
+
+
+
