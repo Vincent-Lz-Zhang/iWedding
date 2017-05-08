@@ -1,5 +1,5 @@
 # iWedding
-iWedding is a drawing board app particularly designed to run big-size touch-enabled screen, powered with Flash and AIR.
+iWedding is a drawing board app particularly designed to run on big-size touch-enabled screen, powered with Flash and AIR.
 
 For a demo, please refer to:
 
