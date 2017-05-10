@@ -1,5 +1,5 @@
 # iWedding
-iWedding is a drawing board app particularly designed to run on those devices with big-size and touch-enabled screen, powered with Flash and AIR. Originally it was designed for my colleague Will's wedding for fun, the guests can leave their wishes and greetings or whatever words on the board and save the whole canvas as a image.
+iWedding is a drawing board app particularly designed to run on the devices with big-size and touch-enabled screens, powered with Flash and AIR. Originally it was designed back in 2012 for my colleague Will's wedding, the guests can leave their wishes, greetings or whatever words and drawings on the digital board and save the whole canvas as an image.
 
 Below are the interfaces:
 
@@ -7,7 +7,7 @@ Below are the interfaces:
 
 ![selecting stickers](https://img3.doubanio.com/view/photo/large/public/p1801101275.jpg "selecting stickers")
 
-Below is the work of one guest 
+Below is the work of one guest:
 
 ![guests work](https://img1.doubanio.com/view/photo/large/public/p1805675107.jpg "guests work")
 
